@@ -1,0 +1,58 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Main body -->
+  <path d="
+    M250 214
+    C278 156 388 122 512 122
+    C636 122 746 156 774 214
+    L830 760
+    C832 780 816 796 796 796
+    H228
+    C208 796 192 780 194 760
+    Z"
+    fill="#7CF05F"/>
+
+  <!-- Top face -->
+  <ellipse cx="512" cy="186" rx="264" ry="72" fill="#92F46E"/>
+
+
+  <!-- Logo-inspired minimal mark -->
+  <rect x="610" y="610" width="106" height="18" rx="9" fill="#1C1F1C"/>
+  <rect x="610" y="646" width="154" height="10" rx="5" fill="#1C1F1C" opacity="0.9"/>
+
+  <!-- Base trim -->
+  <path d="
+    M214 782
+    C294 770 392 764 512 764
+    C632 764 730 770 810 782
+    C794 810 756 834 708 844
+    H316
+    C268 834 230 810 214 782
+    Z"
+    fill="#1C1F1C"/>
+
+  <!-- Bottom feet/details -->
+  <path d="
+    M356 814
+    L390 814
+    L378 842
+    L350 842
+    Z"
+    fill="#111311"/>
+
+  <path d="
+    M470 812
+    H554
+    V846
+    H470
+    Z"
+    fill="#111311"/>
+
+  <path d="
+    M636 814
+    L674 814
+    L680 842
+    L648 842
+    Z"
+    fill="#111311"/>
+</svg>
