@@ -1,5 +1,7 @@
 # Beacon
 
+![Beacon screenshot](screenshot.png)
+
 A macOS menu bar app for controlling Kuando Busylight USB devices.
 
 ## Features
